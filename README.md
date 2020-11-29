@@ -4,7 +4,7 @@ This is Team 4's submission for one of the CAs we were assigned as part of our c
 
 For more information about the CA, please refer to 99 CA Instructions.pdf.
 
-For part 1 and 2, please refer to Team-4 CA_Part_1_final.ipynb and CA_part2_jon.py respectively.
+Our submissions for part 1 and 2 are Team-4 CA_Part_1_final.ipynb and CA_part2_jon.py respectively.
 
 There are 2 parts to this CA. 
 
