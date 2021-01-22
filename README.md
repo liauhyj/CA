@@ -23,4 +23,4 @@ The objective of part 2 is to train and test the CNN tf.keras.Sequential model u
 
 ## Overview of what I did for Part 2
 
-All the code written in CA_part2_jon.py, two teammates contributed to the functions run_cnn3 and run_cnn4, but I made edits to these functions for the integration into the .py file.
+1) All the code written in CA_part2_jon.py, two teammates contributed to the functions run_cnn3 and run_cnn4, but I made edits to these functions for the integration into the .py file.
